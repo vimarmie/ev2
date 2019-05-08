@@ -1,6 +1,21 @@
+@import url('https://fonts.googleapis.com/css?family=Josefin+Sans');
+
+body{
+	background:silver;
+}
+
+h2{
+font-family: 'Josefin Sans', sans-serif;
+font-weight: 400;
+}
+
 
 #menu{
 	position: fixed;
 	bottom:2rem;
 	right:2.5rem;
+}
+
+.bg-migris{
+	background: rgba(50,50,50,0.7);
 }
